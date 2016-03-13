@@ -1,0 +1,1 @@
+D:\Git\task04\Calculator\Calculator\bin\Debug\Calculator.exe.config
